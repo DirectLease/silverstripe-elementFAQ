@@ -1,5 +1,5 @@
 {
-  "name": "silverstripe-module-skeleton",
+  "name": "silverstripe-elementFAQ",
   "description": "Description of your module",
   "main": "./client/src/boot/index.js",
   "author": "You",

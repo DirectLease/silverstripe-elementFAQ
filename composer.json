@@ -1,6 +1,6 @@
 {
-    "name": "silverstripe-module/skeleton",
-    "description": "A skeleton for SilverStripe modules.",
+    "name": "silverstripe-elementFAQ",
+    "description": "A silverstripe module",
     "type": "silverstripe-vendormodule",
     "keywords": [
         "silverstripe",
